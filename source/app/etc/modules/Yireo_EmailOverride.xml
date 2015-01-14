@@ -16,6 +16,7 @@
             <codePool>community</codePool>
             <depends>
                 <Mage_Core />
+                <Aschroder_SMTPPro/>
             </depends>
         </Yireo_EmailOverride>
     </modules>

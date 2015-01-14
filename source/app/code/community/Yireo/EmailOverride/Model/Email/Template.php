@@ -11,7 +11,7 @@
 /**
  * EmailOverride Core model
  */
-class Yireo_EmailOverride_Model_Email_Template extends Mage_Core_Model_Email_Template
+class Yireo_EmailOverride_Model_Email_Template extends Aschroder_SMTPPro_Model_Email_Template
 {
     public function setDesignConfig(array $config)
     {
